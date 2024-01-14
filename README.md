@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chanchalgiri&label=Profile%20views&color=0e75b6&style=flat" alt="chanchalgiri" /> </p>
 
-- 🔭 I’m currently working on **Golf Website**
-
-- 🌱 I’m currently learning **Python**
-
-- 🤝 I’m looking for help with **C++**
-
-- 💬 Ask me about **NodeJs**
 
 - 📫 How to reach me **chanchalgiri780@gmail.com**
 
